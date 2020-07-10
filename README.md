@@ -18,6 +18,6 @@ Graduated in Analysis and Development Systems, Full Stack developer with 15 year
 
 ## My social links:
 
-![Twitter URL](https://img.shields.io/twitter/url?color=%2300FFFF&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/13nunes/) ![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Website&logo=github&style=for-the-badge&url=https://13nunes.github.io/fernandonunes/) [![Twitter URL](https://img.shields.io/twitter/url?color=%231E90FF&label=Twitter&logo=twitter&style=for-the-badge&url=https://twitter.com/fernandonunesti)](https://twitter.com/fernandonunesti)
+![Twitter URL](https://img.shields.io/twitter/url?color=%230077B5&label=linkedin&logo=linkedin&style=for-the-badge&url=https://www.linkedin.com/in/13nunes/) [![Twitter URL](https://img.shields.io/twitter/url?color=red&label=Website&logo=github&style=for-the-badge&url=https://13nunes.github.io/fernandonunes/)](https://13nunes.github.io/fernandonunes/)  [![Twitter URL](https://img.shields.io/twitter/url?color=%231E90FF&label=Twitter&logo=twitter&style=for-the-badge&url=https://twitter.com/fernandonunesti)](https://twitter.com/fernandonunesti) [![Twitter URL](https://img.shields.io/twitter/url?color=%23F48024&label=Stack%20overflow&logo=Stackoverflow&logoColor=white&style=for-the-badge&url=https://stackoverflow.com/users/7317486/fernando-nunes)](https://stackoverflow.com/users/7317486/fernando-nunes)
 
 
