@@ -3,9 +3,9 @@
 
 ## 👋  Hy, my name is Fernando Nunes:  
 
-Graduated in Analysis and Development Systems, Full Stack developer with 15 years of experience in drawing, projecting and maintaining Web and Mobile applications using HTML, CSS, JS,  PHP, C#, React, React Native, Vue, Flutter and others frameworks.
-
 A highly competent, talented and ambitious developer with a strong technical background who possesses self-discipline and the ability to develop applications with maximum accessibility, customer experience and usability. A good team player who thrives on creating engaging creative solutions, is deadline orientated and has the ability to produce detailed technical specifications from client requirements.
+
+Graduated in Analysis and Development Systems, Full Stack developer with 15 years of experience in drawing, projecting and maintaining Web and Mobile applications using HTML, CSS, JS,  PHP, C#, React, React Native, Vue, Flutter and others frameworks.
 
 
 ## About Me
